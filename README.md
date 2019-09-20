@@ -1,6 +1,6 @@
 ## docker-ngx-php-5.3 
 
-### quick start
+### Quick start
 1. Build Docker images
 ```
 $ docker build -t ngx-php-5.3 . 
@@ -39,5 +39,5 @@ $ curl -s http://localhost/info.php
 #### Nginx
 - version: 1.6.2
 
-#### Supervisor
+#### Supervisord
 - version: 3.0
